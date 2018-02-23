@@ -1,0 +1,45 @@
+# opensource-code-audit
+
+A collection of open source code auditing tools
+
+## Collections
+
+Signature database
+
+* [pwnsdx/BadCode - a signature database for static source code scanner that identify bad security practices.](https://github.com/pwnsdx/BadCode)
+* [wireghoul/graudit - Grep rough audit - source code auditing tool](https://github.com/wireghoul/graudit)
+
+Lists maintained by 3rd-party
+
+* [exakat/php-static-analysis-tools - A reviewed list of useful PHP static analysis tools](https://github.com/exakat/php-static-analysis-tools)
+
+All-in-one suite
+
+* [FeeiCN/cobra - Source Code Security Audit (源代码安全审计) ](https://github.com/FeeiCN/cobra)
+* [SonarSource - Continuous Code Quality](https://github.com/SonarSource/sonarqube)
+  
+Ruby
+
+* [thesp0nge/dawnscanner - a static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks](https://github.com/thesp0nge/dawnscanner)
+* [presidentbeef/brakeman - A static analysis security vulnerability scanner for Ruby on Rails applications](https://github.com/presidentbeef/brakeman)
+
+NodeJS
+
+* [ajinabraham/NodeJsScan - NodeJsScan is a static security code scanner for Node.js applications](https://github.com/ajinabraham/NodeJsScan)
+
+DotNet
+
+* [pumasecurity/puma-scan - the leading software security Visual Studio analyzer extension. Built on top of Roslyn, the open-source .NET Compiler Platform, Puma Scan provides real time, continuous source code analysis as development teams write code. Vulnerabilities are immediately displayed in the development environment as spell check and compiler warnings, ...](https://github.com/pumasecurity/puma-scan)
+
+PHP
+
+* [Qihoo360/phptrace - A tracing and troubleshooting tool for PHP scripts](https://github.com/Qihoo360/phptrace)
+
+Android
+
+* [vincentcox/StaCoAn - a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications](https://github.com/vincentcox/StaCoAn)
+
+## Testcases
+
+* [bowu678/php_bugs - PHP代码审计分段讲解](https://github.com/bowu678/php_bugs)
+* [jiangsir404/Audit-Learning - 记录自己对《代码审计》的理解和总结，对危险函数的深入分析以及在p牛的博客和代码审计圈的收获](https://github.com/jiangsir404/Audit-Learning)
