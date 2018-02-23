@@ -101,6 +101,7 @@ iOS
 Emulators
 
 * [pyrebox - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU](https://github.com/Cisco-Talos/pyrebox)
+* [QuarkslaB Dynamic binary Instrumentation](https://qbdi.quarkslab.com/)
 
 Graph / Visualization
 
