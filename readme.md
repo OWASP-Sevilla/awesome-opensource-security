@@ -17,3 +17,4 @@ Collections
 * [wifi-tools](wifi-tools.md)
 * [sdr-tools](sdr-tools.md)
 * [threat-detection](threat-detection.md)
+* [malware-analysis](malware-analysis.md)
