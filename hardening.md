@@ -23,3 +23,8 @@ Source code tools
 
 * [OWASP Dependency Check - a utility that identifies project dependencies and checks if there are any known, publicly disclosed, vulnerabilities](https://www.owasp.org/index.php/OWASP_Dependency_Check)
   * [【知识库】Dependency-check依赖检查工具](https://mp.weixin.qq.com/s/j37Y1rpQphFFSoAtbzSnMQ)
+
+Uncategorized
+
+* [1lastBr3ath/drmine - Dr. Mine is a node script written to aid automatic detection of in-browser cryptojacking](https://github.com/1lastBr3ath/drmine)  
+
