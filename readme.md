@@ -19,3 +19,5 @@ Collections
 * [threat-detection](threat-detection.md)
 * [malware-analysis](malware-analysis.md)
 * [cobalt-strike-addons](cobalt-strike-addons.md)
+* [ctf-environment](ctf-environment.md)
+
