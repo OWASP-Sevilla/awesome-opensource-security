@@ -16,3 +16,4 @@ Collections
 * [shellcode-tools](shellcode-tools.md)
 * [wifi-tools](wifi-tools.md)
 * [sdr-tools](sdr-tools.md)
+* [threat-detection](threat-detection.md)
