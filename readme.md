@@ -18,3 +18,4 @@ Collections
 * [sdr-tools](sdr-tools.md)
 * [threat-detection](threat-detection.md)
 * [malware-analysis](malware-analysis.md)
+* [cobalt-strike-addons](cobalt-strike-addons.md)
