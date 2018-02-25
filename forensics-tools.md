@@ -22,6 +22,7 @@ Mac
 * [n0fate/chainbreaker - Mac OS X Keychain Forensic Tool](https://github.com/n0fate/chainbreaker)
 * [ydkhatri/mac_apt - macOS Artifact Parsing Tool](https://github.com/ydkhatri/mac_apt)
 * [Yelp/osxcollector - A forensic evidence collection & analysis toolkit for OS X](https://github.com/Yelp/osxcollector)
+* [mac4n6/macMRU-Parser - parse the Most Recently Used (MRU) plist files on macOS into a more human friendly format](https://github.com/mac4n6/macMRU-Parser)
 
 Mobile
 
