@@ -12,3 +12,7 @@ Sniffer
 
 * [dirtbags/pcapdb - A Distributed, Search-Optimized Full Packet Capture System](https://github.com/dirtbags/pcapdb)
 
+## Books
+
+* [OWASP - Automated Threat Handbook - Web Applications](https://www.owasp.org/images/3/33/Automated-threat-handbook.pdf)
+
