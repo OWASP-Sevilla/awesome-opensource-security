@@ -20,4 +20,4 @@ Collections
 * [malware-analysis](malware-analysis.md)
 * [cobalt-strike-addons](cobalt-strike-addons.md)
 * [ctf-environment](ctf-environment.md)
-
+* [honeypot](honeypot.md)
