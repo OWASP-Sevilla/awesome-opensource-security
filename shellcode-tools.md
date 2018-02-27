@@ -11,6 +11,7 @@ Shellcodes
 Compiler
 
 * [nologic/shellcc - Building optimized shellcode using GCC. Suited for learning assembly and playing with the ABI](https://github.com/nologic/shellcc)
+* [merrychap/shellen - Interactive shellcoding environment to easily craft shellcodes](https://github.com/merrychap/shellen)
 
 Encoders
 
