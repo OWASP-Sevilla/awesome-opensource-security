@@ -33,6 +33,7 @@ Emulator / Symbolic execution
 
 Static analysis
 
+* [reddr/LibScout - a light-weight and effective static analysis tool to detect third-party libraries in Android apps](https://github.com/reddr/LibScout)
 * [rednaga/APKiD - Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android](https://github.com/rednaga/APKiD)
 * [dorneanu/smalisca - Static Code Analysis for Smali files](https://github.com/dorneanu/smalisca)
 * [Xbalien/ADVDroid - statically vetting android apps based soot](https://github.com/Xbalien/ADVDroid)
