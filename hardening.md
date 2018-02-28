@@ -25,3 +25,8 @@ Source code tools
   * [【知识库】Dependency-check依赖检查工具](https://mp.weixin.qq.com/s/j37Y1rpQphFFSoAtbzSnMQ)
 
 
+Sandbox
+
+* [adtac/fssb - A filesystem sandbox for Linux using syscall intercepts](https://github.com/adtac/fssb)
+* [google/nsjail - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters](https://github.com/google/nsjail)
+   * [Tutorial: Sandboxing ImageMagick with nsjail](https://offbyinfinity.com/2017/12/sandboxing-imagemagick-with-nsjail/)
