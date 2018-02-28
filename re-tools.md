@@ -93,6 +93,7 @@ QT
 Mac
 
 * [wzqcongcong/macSubstrate - Substrate for macOS](https://github.com/wzqcongcong/macSubstrate)
+* [malus-security/sandblaster - the first tool that reverses binary sandbox profiles to their original SBPL format](https://github.com/malus-security/sandblaster)
 
 iOS
 
