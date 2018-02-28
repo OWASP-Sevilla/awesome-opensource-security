@@ -14,6 +14,14 @@ Sniffer
 * [TravisFSmith/SweetSecurity - Network Security Monitoring on Raspberry Pi type devices](https://github.com/TravisFSmith/SweetSecurity)
 * [noddos - Noddos client ](https://github.com/noddos/noddos)
 
+HIDS
+
+* [Invoke-IR/Uproot - a Host Based Intrusion Detection System (HIDS) that leverages Permanent Windows Management Instrumentation (WMI) Event Susbcriptions to detect malicious activity on a network](https://github.com/Invoke-IR/Uproot)
+
+Powershell
+
+* [danielbohannon/Revoke-Obfuscation - PowerShell Obfuscation Detection Framework](https://github.com/danielbohannon/Revoke-Obfuscation)
+
 ## Books
 
 * [OWASP - Automated Threat Handbook - Web Applications](https://www.owasp.org/images/3/33/Automated-threat-handbook.pdf)
