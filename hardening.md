@@ -14,6 +14,7 @@ Windows AD
 * [l0ss/Grouper - A PowerShell script for helping to find vulnerable settings in AD Group Policy](https://github.com/l0ss/Grouper)
 * [clr2of8/DPAT - Domain Password Audit Tool for Pentesters](https://github.com/clr2of8/DPAT)
 * [canix1/ADACLScanner - Your number one script for ACL's in Active Directory](https://github.com/canix1/ADACLScanner)
+* [cyberark/ACLight - A script for advanced discovery of Privileged Accounts - includes Shadow Admins](https://github.com/cyberark/ACLight)
 
 SQLServer
 
