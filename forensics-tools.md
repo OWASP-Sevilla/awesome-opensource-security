@@ -16,6 +16,7 @@ Windows
 
 * [comaeio/Hibr2Bin - Comae Hibernation File Decompressor](https://github.com/comaeio/Hibr2Bin)
 * [ANSSI-FR/bits_parser - Extract BITS jobs from QMGR queue and store them as CSV records](https://github.com/ANSSI-FR/bits_parser)
+* [williballenthin/python-evtx - Pure Python parser for recent Windows Event Log files (.evtx)](https://github.com/williballenthin/python-evtx/blob/master/scripts/evtx_dump.py)
 
 Mac
 
