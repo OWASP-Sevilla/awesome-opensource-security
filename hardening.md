@@ -8,6 +8,8 @@ Windows
 
 * [A-mIn3/WINspect - Powershell-based Windows Security Auditing Toolbox](https://github.com/A-mIn3/WINspect)
 * [securitywithoutborders/hardentools - a utility that disables a number of risky Windows features](https://github.com/securitywithoutborders/hardentools)
+* [zodiacon/DriverMon - Monitor activity of any driver](https://github.com/zodiacon/DriverMon)
+* [EyeOfRa/WinConMon - a demonstration version of how to monitoring Windows console (starting from Windows 8)](https://github.com/EyeOfRa/WinConMon)
 
 Windows AD
 
