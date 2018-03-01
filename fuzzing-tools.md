@@ -52,6 +52,7 @@ Uncategorized
 * [aoh/radamsa - a general-purpose fuzzer
 ](https://github.com/aoh/radamsa)
 * [MozillaSecurity/peach - a fuzzing framework which uses a DSL for building fuzzers and an observer based architecture to execute and monitor them](https://github.com/MozillaSecurity/peach)
+* [Windows IPC Fuzzing Tools](https://www.nccgroup.trust/us/about-us/resources/windows-ipc-fuzzing-tools/)
 
 ## Test cases
 

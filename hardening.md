@@ -15,6 +15,10 @@ Windows AD
 * [clr2of8/DPAT - Domain Password Audit Tool for Pentesters](https://github.com/clr2of8/DPAT)
 * [canix1/ADACLScanner - Your number one script for ACL's in Active Directory](https://github.com/canix1/ADACLScanner)
 
+SQLServer
+
+* [sqlcollaborative/dbachecks - a framework created by and for SQL Server pros who need to validate their environments](https://github.com/sqlcollaborative/dbachecks)
+
 Firefox
 
 * [pyllyukko/user.js - Firefox configuration hardening](https://github.com/pyllyukko/user.js)
