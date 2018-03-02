@@ -20,6 +20,11 @@ Host based detection tools
 * [hasherezade/pe-sieve - Scans a given process, searching for the modules containing in-memory code modifications. When found, it dumps the modified PE](https://github.com/hasherezade/pe-sieve)
 * [hasherezade/hollows_hunter - A process scanner detecting and dumping hollowed PE modules](https://github.com/hasherezade/hollows_hunter)
 
+Monitor
+
+* [realparisi/WMI_Monitor - Log newly created WMI consumers and processes](https://github.com/realparisi/WMI_Monitor)
+* [luctalpe/WMIMon - Tool to monitor WMI activity on Windows](https://github.com/luctalpe/WMIMon)
+
 Powershell
 
 * [danielbohannon/Revoke-Obfuscation - PowerShell Obfuscation Detection Framework](https://github.com/danielbohannon/Revoke-Obfuscation)
