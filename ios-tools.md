@@ -21,6 +21,7 @@ Patch
 Assessments
 
 * [chaitin/passionfruit - [WIP] Crappy iOS app analyzer](https://github.com/chaitin/passionfruit)
+* [snooze6/FiOS - small proof of concept gui for auditing iOS applications based on objection](https://github.com/snooze6/FiOS)
 
 Uncategorized
 

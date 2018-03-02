@@ -22,6 +22,10 @@ Powershell
 
 * [danielbohannon/Revoke-Obfuscation - PowerShell Obfuscation Detection Framework](https://github.com/danielbohannon/Revoke-Obfuscation)
 
+## Simulation
+
+* [NextronSystems/APTSimulator - A toolset to make a system look as if it was the victim of an APT attack](https://github.com/NextronSystems/APTSimulator)
+
 ## Books
 
 * [OWASP - Automated Threat Handbook - Web Applications](https://www.owasp.org/images/3/33/Automated-threat-handbook.pdf)

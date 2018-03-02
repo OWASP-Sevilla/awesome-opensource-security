@@ -4,6 +4,10 @@ A collection of open source hardening tools
 
 ## Collections
 
+3rd-party lists
+
+* [unassassinable/PAW - Privileged Access Workstation](https://github.com/unassassinable/PAW)
+
 Windows
 
 * [A-mIn3/WINspect - Powershell-based Windows Security Auditing Toolbox](https://github.com/A-mIn3/WINspect)
@@ -37,3 +41,5 @@ Sandbox
 * [adtac/fssb - A filesystem sandbox for Linux using syscall intercepts](https://github.com/adtac/fssb)
 * [google/nsjail - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters](https://github.com/google/nsjail)
    * [Tutorial: Sandboxing ImageMagick with nsjail](https://offbyinfinity.com/2017/12/sandboxing-imagemagick-with-nsjail/)
+
+
