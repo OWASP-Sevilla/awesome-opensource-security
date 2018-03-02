@@ -38,6 +38,9 @@ Uncategorized
 ## Attack Simulation
 
 * [NextronSystems/APTSimulator - A toolset to make a system look as if it was the victim of an APT attack](https://github.com/NextronSystems/APTSimulator)
+* [redcanaryco/atomic-red-team - Small and highly portable detection tests mapped to the Mitre ATT&CK Framework](https://github.com/redcanaryco/atomic-red-team)
+* [mitre/caldera - An automated adversary emulation system](https://github.com/mitre/caldera)
+   * [INSTALL/SETUP MITRE CALDERA THE AUTOMATED CYBER ADVERSARY EMULATION SYSTEM](https://holdmybeersecurity.com/2018/01/13/install-setup-mitre-caldera-the-automated-cyber-adversary-emulation-system/)
 
 ## Books
 
