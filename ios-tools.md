@@ -29,10 +29,16 @@ Uncategorized
 * [BishopFox/bfdecrypt - Utility to decrypt App Store apps on jailbroken iOS 11.x](https://github.com/BishopFox/bfdecrypt)
 * [n0fate/iChainbreaker - PoC code for analyzing iCloud Keychain](https://github.com/n0fate/iChainbreaker)
 
-## Books
+## Tutorials
+
+Books
 
 * [Hacking iOS Applications ](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
 * [Oreilly.Hacking.and.Securing.iOS.Applications.Jan.2012](https://doc.lagout.org/security/Oreilly%20Hacking%20and%20Securing%20iOS%20Applications%20Jan%202012/Oreilly.Hacking.and.Securing.iOS.Applications.Jan.2012.pdf)
+
+Tutorials
+
+* [felixgr/secure-ios-app-dev - Secure iOS application development](https://github.com/felixgr/secure-ios-app-dev)
 
 ## Other resources
 

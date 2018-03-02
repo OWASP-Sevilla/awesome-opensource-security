@@ -24,6 +24,12 @@ Powershell
 
 * [danielbohannon/Revoke-Obfuscation - PowerShell Obfuscation Detection Framework](https://github.com/danielbohannon/Revoke-Obfuscation)
 
+Log analysis / Visualization
+
+* [JPCERTCC/LogonTracer - Investigate malicious Windows logon by visualizing and analyzing Windows event log](https://github.com/JPCERTCC/LogonTracer)
+* [THIBER-ORG/userline - Query and report user logons relations from MS Windows Security Events](https://github.com/THIBER-ORG/userline)
+* [austin-taylor/VulnWhisperer - Create actionable data from your Vulnerability Scans](https://github.com/austin-taylor/VulnWhisperer)
+
 Uncategorized
 
 * [Cyb3rWard0g/HELK - The Hunting ELK](https://github.com/Cyb3rWard0g/HELK)
