@@ -22,10 +22,13 @@ Assessments
 
 * [chaitin/passionfruit - [WIP] Crappy iOS app analyzer](https://github.com/chaitin/passionfruit)
 * [snooze6/FiOS - small proof of concept gui for auditing iOS applications based on objection](https://github.com/snooze6/FiOS)
+* [vtky/Swizzler2 - a tool to help analyze MDM/EMS iOS applications, it has grown to incorporate other features to assist and ease the job of penetration testers and security researchers in the security analysis of any iOS application](https://github.com/vtky/Swizzler2)
+* [iSECPartners/Introspy-iOS - Blackbox tool to help understand what an iOS application is doing at runtime and assist in the identification of potential security issues](https://github.com/iSECPartners/Introspy-iOS)
 
 Uncategorized
 
 * [mwrlabs/needle - The iOS Security Testing Framework](https://github.com/mwrlabs/needle)
+  * [A quick intro to Needle](https://labs.mwrinfosecurity.com/blog/needle-how-to/)
 * [BishopFox/bfdecrypt - Utility to decrypt App Store apps on jailbroken iOS 11.x](https://github.com/BishopFox/bfdecrypt)
 * [n0fate/iChainbreaker - PoC code for analyzing iCloud Keychain](https://github.com/n0fate/iChainbreaker)
 
@@ -38,7 +41,8 @@ Books
 
 Tutorials
 
-* [felixgr/secure-ios-app-dev - Secure iOS application development](https://github.com/felixgr/secure-ios-app-dev)
+* [felixgr/secure-ios-app-dev - Collection of the most common vulnerabilities found in iOS applications](https://github.com/felixgr/secure-ios-app-dev)
+* [iOS Application Security Review Methodology](http://research.aurainfosec.io/ios-application-security-review-methodology/)
 
 ## Other resources
 
