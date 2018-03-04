@@ -35,6 +35,12 @@ Log analysis / Visualization
 * [THIBER-ORG/userline - Query and report user logons relations from MS Windows Security Events](https://github.com/THIBER-ORG/userline)
 * [austin-taylor/VulnWhisperer - Create actionable data from your Vulnerability Scans](https://github.com/austin-taylor/VulnWhisperer)
 
+Windows event forwarding
+
+* [palantir/windows-event-forwarding - A repository for using windows event forwarding for incident detection and response](https://github.com/palantir/windows-event-forwarding)
+  * [Windows Event Forwarding for Network Defense](https://medium.com/@palantir/windows-event-forwarding-for-network-defense-cb208d5ff86f)
+* [iadgov/Event-Forwarding-Guidance - Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding. iadgov](https://github.com/iadgov/Event-Forwarding-Guidance)
+
 Uncategorized
 
 * [Cyb3rWard0g/HELK - The Hunting ELK](https://github.com/Cyb3rWard0g/HELK)
