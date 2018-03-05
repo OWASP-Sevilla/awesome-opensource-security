@@ -11,3 +11,7 @@ A collection of open source CTF environment
 
 * [Naetw/CTF-pwn-tips - Here records some tips about pwn](https://github.com/Naetw/CTF-pwn-tips)
 
+## Writeups
+
+* [orangetw/My-CTF-Web-Challenges - Collection of CTF Web challenges I made](https://github.com/orangetw/My-CTF-Web-Challenges)
+

@@ -1,6 +1,6 @@
 # Open source tools
 
-Collections
+A list of interesting stuffs that I have no time to test/review.
 
 * [android-tools](android-tools.md)
 * [code-audit](code-audit.md)
@@ -12,7 +12,6 @@ Collections
 * [pentest-tools](pentest-tools.md)
 * [powershell-tools](powershell-tools.md)
 * [re-tools](re-tools.md)
-* [readme](readme.md)
 * [shellcode-tools](shellcode-tools.md)
 * [wifi-tools](wifi-tools.md)
 * [sdr-tools](sdr-tools.md)
@@ -22,3 +21,5 @@ Collections
 * [ctf-environment](ctf-environment.md)
 * [honeypot](honeypot.md)
 * [docker-tools](docker-tools.md)
+* [exploits](exploits.md)
+
