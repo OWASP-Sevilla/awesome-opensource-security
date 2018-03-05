@@ -27,6 +27,7 @@ Assessments
 
 Uncategorized
 
+* [Proteas/unstripped-ios-kernels - Unstripped iOS Kernels](https://github.com/Proteas/unstripped-ios-kernels)
 * [mwrlabs/needle - The iOS Security Testing Framework](https://github.com/mwrlabs/needle)
   * [A quick intro to Needle](https://labs.mwrinfosecurity.com/blog/needle-how-to/)
 * [BishopFox/bfdecrypt - Utility to decrypt App Store apps on jailbroken iOS 11.x](https://github.com/BishopFox/bfdecrypt)
