@@ -16,3 +16,4 @@ Post exploitation
 
 * [peewpw/Invoke-WCMDump - PowerShell Script to Dump Windows Credentials from the Credential Manager](https://github.com/peewpw/Invoke-WCMDump)
 * [xorrior/RandomPS-Scripts - PowerShell Scripts focused on Post-Exploitation Capabilities](https://github.com/xorrior/RandomPS-Scripts)
+* [danielbohannon/Invoke-CradleCrafter - PowerShell Remote Download Cradle Generator & Obfuscator](https://github.com/danielbohannon/Invoke-CradleCrafter)
