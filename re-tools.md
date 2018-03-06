@@ -73,6 +73,7 @@ Uncategorized
 
 * [m4b/bingrep - like ~~grep~~ UBER, but for binaries](https://github.com/m4b/bingrep)
 * [fireeye/flare-vm - a fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing](https://github.com/fireeye/flare-vm)
+* [blacknbunny/peanalyzer - Advanced Portable Executable File Analyzer And Disassembler](https://github.com/blacknbunny/peanalyzer)
 
 U3D
 
