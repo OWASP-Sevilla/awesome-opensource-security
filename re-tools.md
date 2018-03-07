@@ -74,6 +74,7 @@ Uncategorized
 * [m4b/bingrep - like ~~grep~~ UBER, but for binaries](https://github.com/m4b/bingrep)
 * [fireeye/flare-vm - a fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing](https://github.com/fireeye/flare-vm)
 * [blacknbunny/peanalyzer - Advanced Portable Executable File Analyzer And Disassembler](https://github.com/blacknbunny/peanalyzer)
+* [agustingianni/symrepl - a small utility that helps you investigate the type information inside binaries](https://github.com/agustingianni/symrepl)
 
 U3D
 
