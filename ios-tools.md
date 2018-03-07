@@ -9,6 +9,11 @@ A collection of open source iOS tools
 * [ansjdnakjdnajkd/iOS - Most usable tools for iOS penetration testing](https://github.com/ansjdnakjdnajkd/iOS)
 * [OpenJailbreak - Apple tools. Built from scratch. For the community. Get involved](https://github.com/OpenJailbreak)
 
+Jailbreak
+
+* [tihmstar/doubleH3lix - Jailbreak for iOS 10.x 64bit devices without KTRR](https://github.com/tihmstar/doubleH3lix)
+* [coolstar/electra - Electra iOS 11.0 - 11.1.2 jailbreak toolkit based on async_awake](https://github.com/coolstar/electra)
+
 Instrumentation
 
 * [Razzile/Liberation - A runtime patching library for iOS. Major rework on unfinished branch](https://github.com/Razzile/Liberation)
