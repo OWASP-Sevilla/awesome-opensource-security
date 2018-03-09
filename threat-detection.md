@@ -21,6 +21,12 @@ Host based detection tools
 * [hasherezade/hollows_hunter - A process scanner detecting and dumping hollowed PE modules](https://github.com/hasherezade/hollows_hunter)
 * [shellster/DCSYNCMonitor - Monitors for DCSYNC and DCSHADOW attacks and create custom Windows Events for these events](https://github.com/shellster/DCSYNCMonitor)
 
+Webshell
+
+* [baidu-security/webshell-scanner-client - A golang client of https://scanner.baidu.com](https://github.com/baidu-security/webshell-scanner-client)
+* [nbs-system/php-malware-finder - Detect potentially malicious PHP files](https://github.com/nbs-system/php-malware-finder)
+* [emposha/PHP-Shell-Detector - a php script that helps you find and identify php/cgi(perl)/asp/aspx shells](https://github.com/emposha/PHP-Shell-Detector)
+
 Monitor
 
 * [realparisi/WMI_Monitor - Log newly created WMI consumers and processes](https://github.com/realparisi/WMI_Monitor)
