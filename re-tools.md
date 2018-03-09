@@ -101,6 +101,7 @@ Mac
 iOS
 
 * [kernelcache - Identify and rename function stubs (plt entries) in an iOS kernelcache. ARM64 only.](https://github.com/saelo/ida_scripts/blob/master/kernelcache.py)
+* [bazad/ida_kernelcache - An IDA Toolkit for analyzing iOS kernelcaches](https://github.com/bazad/ida_kernelcache)
 
 Emulators
 
