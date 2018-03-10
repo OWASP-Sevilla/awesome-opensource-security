@@ -34,6 +34,7 @@ Mac
 Linux
 
 * [sevagas/swap_digger - a tool used to automate Linux swap analysis during post-exploitation or forensics](https://github.com/sevagas/swap_digger)
+* [JPT - A quick & dirty GPT Partition Editor](http://newandroidbook.com/tools/jpt.html)
 
 Mobile
 

@@ -143,3 +143,10 @@ export name/address map which can be queried](https://github.com/fireeye/remote_
 * [wtsxDev/Malware-Analysis - List of awesome malware analysis tools and resources](https://github.com/wtsxDev/Malware-Analysis)
 
 * [yellowbyte/reverse-engineering-reference-manual - a collage of reverse engineering topics that I find interesting](https://github.com/yellowbyte/reverse-engineering-reference-manual)
+
+## Tutorials
+
+* [Binary protection schemes by Andrew Griffiths](http://www.bitlackeys.org/resources/binary_protection_schemes.pdf)
+
+
+
