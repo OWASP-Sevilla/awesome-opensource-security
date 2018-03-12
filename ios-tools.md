@@ -13,6 +13,7 @@ Jailbreak
 
 * [tihmstar/doubleH3lix - Jailbreak for iOS 10.x 64bit devices without KTRR](https://github.com/tihmstar/doubleH3lix)
 * [coolstar/electra - Electra iOS 11.0 - 11.1.2 jailbreak toolkit based on async_awake](https://github.com/coolstar/electra)
+* [ktiOSz/Exploit11.2 - Exploit iOS 11.2.x by ZIMPERIUM and semi-completed by me. Sandbox escapes on CVE-2018-4087](https://github.com/ktiOSz/Exploit11.2)
 
 Instrumentation
 

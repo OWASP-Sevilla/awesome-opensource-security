@@ -69,6 +69,7 @@ Instrumentation
 * [ac-pm/Inspeckage - Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)](https://github.com/ac-pm/Inspeckage)
 * [asLody/legend - a Hook framework for Android Development, it allows you to Hook Java methods without ROOT](https://github.com/asLody/legend)
 * [rk700/YAHFA - Yet Another Hook Framework for ART](https://github.com/rk700/YAHFA)
+* [android-hacker/VirtualXposed - A Simple App to use Xposed without root or unlock the bootloader(or modify system image etc)](https://github.com/android-hacker/VirtualXposed/blob/exposed/CHINESE.md)
 
 Analysis framework / Integrated Environment
 
