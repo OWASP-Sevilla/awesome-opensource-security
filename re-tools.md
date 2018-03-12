@@ -5,7 +5,10 @@ A collection of open source reverse engineering tools
 
 ## IDA Plugins
 
+3rd-party lists
+
 * [onethawt/idaplugins-list: a list of IDA plugins](https://github.com/onethawt/idaplugins-list/blob/master/README.md)
+* [duo-labs/idapython - Duo Labs IDAPython Repository](https://github.com/duo-labs/idapython)
 
 IOCTL / Windows driver
 
@@ -17,6 +20,7 @@ Diff / Patch
 * [keypatch0 - A replacement of the internal IDA assembler](http://www.keystone-engine.org/keypatch0)
 * [McGill-DMaS/Kam1n0-Plugin-IDA-Pro - The Kam1n0 Assembly Clone Search Engine](https://www.whitehatters.academy/diffing-with-kam1n0/)
 * [ohjeongwook/DarunGrim - A Binary Diffing and Patch Analysis Tool (v3) http://darungrim.org](https://github.com/ohjeongwook/DarunGrim)
+* [debasishm89/MassDiffer - Large Scale Cumulative Binary Diffing Script](https://github.com/debasishm89/MassDiffer)
 
 FLIRT / Signatures
 
