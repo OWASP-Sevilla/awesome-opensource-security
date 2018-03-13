@@ -9,6 +9,12 @@ Signature database
 * [pwnsdx/BadCode - a signature database for static source code scanner that identify bad security practices.](https://github.com/pwnsdx/BadCode)
 * [wireghoul/graudit - Grep rough audit - source code auditing tool](https://github.com/wireghoul/graudit)
 
+Scanning for known vulnerability
+
+* [RetireJS - Scanner detecting the use of JavaScript libraries with known vulnerabilities](https://github.com/RetireJS/retire.js)
+* [snyk.io - helps you use open source and stay secure](https://snyk.io/)
+* [nodesecurity.io - Continuous Security monitoring for your node apps](https://nodesecurity.io/)
+
 Lists maintained by 3rd-party
 
 * [exakat/php-static-analysis-tools - A reviewed list of useful PHP static analysis tools](https://github.com/exakat/php-static-analysis-tools)
