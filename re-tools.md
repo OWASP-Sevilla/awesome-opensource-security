@@ -80,6 +80,7 @@ Uncategorized
 * [fireeye/flare-vm - a fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing](https://github.com/fireeye/flare-vm)
 * [blacknbunny/peanalyzer - Advanced Portable Executable File Analyzer And Disassembler](https://github.com/blacknbunny/peanalyzer)
 * [agustingianni/symrepl - a small utility that helps you investigate the type information inside binaries](https://github.com/agustingianni/symrepl)
+* [NetSPI/PESecurity - PowerShell module to check if a Windows binary (EXE/DLL) has been compiled with ASLR, DEP, SafeSEH, StrongNaming, and Authenticode](https://github.com/NetSPI/PESecurity)
 
 U3D
 
