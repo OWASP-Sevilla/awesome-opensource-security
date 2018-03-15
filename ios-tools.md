@@ -22,6 +22,7 @@ Instrumentation
 * [Urinx/iOSAppHook - 专注于非越狱环境下iOS应用逆向研究，从dylib注入，应用重签名到App Hook](https://github.com/Urinx/iOSAppHook)
 * [BishopFox/bfinject - Dylib injection for iOS 11.0 - 11.1.2 with LiberiOS and Electra jailbreaks](https://github.com/BishopFox/bfinject)
 * [cycript - allows developers to explore and modify running applications on either iOS or Mac OS X using a hybrid of Objective-C++ and JavaScript syntax through an interactive console that features syntax highlighting and tab completion](http://www.cycript.org/)
+* [XPoCe - XPC Snooping utilties for MacOS and iOS](http://newosxbook.com/tools/XPoCe.html)
 
 Patch
 
