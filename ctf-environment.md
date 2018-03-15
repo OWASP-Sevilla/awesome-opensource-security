@@ -8,6 +8,7 @@ Vulnerable environments
 
 * [Vulnerable By Design ~ VulnHub](https://www.vulnhub.com/)
 * [logicalhacking/DVHMA - Damn Vulnerable Hybrid Mobile App (DVHMA) is an hybrid mobile app (for Android) that intentionally contains vulnerabilities](https://github.com/logicalhacking/DVHMA)
+* [OWASP/igoat - OWASP iGoat - A Deliberately Insecure Application to learn iOS App Pentesting and Defense](https://github.com/OWASP/igoat)
 
 Crackme
 
