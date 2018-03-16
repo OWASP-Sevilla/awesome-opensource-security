@@ -37,6 +37,10 @@ DotNet
 
 * [pumasecurity/puma-scan - the leading software security Visual Studio analyzer extension. Built on top of Roslyn, the open-source .NET Compiler Platform, Puma Scan provides real time, continuous source code analysis as development teams write code. Vulnerabilities are immediately displayed in the development environment as spell check and compiler warnings, ...](https://github.com/pumasecurity/puma-scan)
 
+Java
+
+* [fergarrui/custom-bytecode-analyzer - Java bytecode analyzer customizable via JSON rule](https://github.com/fergarrui/custom-bytecode-analyzer)
+
 PHP
 
 * [Qihoo360/phptrace - A tracing and troubleshooting tool for PHP scripts](https://github.com/Qihoo360/phptrace)
