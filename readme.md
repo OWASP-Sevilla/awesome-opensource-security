@@ -18,7 +18,7 @@ A list of interesting stuffs that I have no time to test/review.
 * [threat-detection](threat-detection.md)
 * [malware-analysis](malware-analysis.md)
 * [cobalt-strike-addons](cobalt-strike-addons.md)
-* [ctf-environment](ctf-environment.md)
+* [ctf-tools](ctf-tools.md)
 * [honeypot](honeypot.md)
 * [docker-tools](docker-tools.md)
 * [exploits](exploits.md)
