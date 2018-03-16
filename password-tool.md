@@ -13,6 +13,10 @@ A collection of password tools
 * [bit4woo/passmaker](https://github.com/bit4woo/passmaker)
 * [praetorian-inc/Hob0Rules - Password cracking rules for Hashcat based on statistics and industry patterns](https://github.com/praetorian-inc/Hob0Rules/)
 * [berzerk0/BEWGor - Bull's Eye Wordlist Generator - Does your password rely on predictable patterns of accessible info](https://github.com/berzerk0/BEWGor)
+* [AlessandroZ/LaZagneForensic - Windows passwords decryption from dump files](https://github.com/AlessandroZ/LaZagneForensic)
+* [Viralmaniar/Passhunt - a simple tool for searching of default credentials for network devices, web applications and more](https://github.com/Viralmaniar/Passhunt)
+* [tweksteen/jenkins-decrypt - Credentials dumper for Jenkins](https://github.com/tweksteen/jenkins-decrypt)
+* [berzerk0/Probable-Wordlists - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular](https://github.com/berzerk0/Probable-Wordlists)
 
 ## Cracking
 
