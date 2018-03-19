@@ -2,13 +2,15 @@
 
 A collection of password tools
 
-## Collections of dictionary files
+## Collections
+
+Dictionary files
 
 * [fuzzdb-project/fuzzdb - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery](https://github.com/fuzzdb-project/fuzzdb)
 * [OWASP/OpenDoor](https://github.com/stanislav-web/OpenDoor/tree/master/data)
 * [droope/pwlist - Password lists obtained from strangers attempting to log in to my server](https://github.com/droope/pwlist)
 
-## Password generator
+Password generator
 
 * [bit4woo/passmaker](https://github.com/bit4woo/passmaker)
 * [praetorian-inc/Hob0Rules - Password cracking rules for Hashcat based on statistics and industry patterns](https://github.com/praetorian-inc/Hob0Rules/)
@@ -18,9 +20,13 @@ A collection of password tools
 * [tweksteen/jenkins-decrypt - Credentials dumper for Jenkins](https://github.com/tweksteen/jenkins-decrypt)
 * [berzerk0/Probable-Wordlists - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular](https://github.com/berzerk0/Probable-Wordlists)
 
-## Cracking
+Cracking
 
 * [hashview - A web front-end for password cracking and analytics](https://github.com/hashview/hashview)
+
+Uncategorized
+
+* [CboeSecurity/password_pwncheck - Kerberos / Windows AD / Linux PAM password change check against breached lists (HIBP), and other rules](https://github.com/CboeSecurity/password_pwncheck)
 
 ## Tutorials
 
