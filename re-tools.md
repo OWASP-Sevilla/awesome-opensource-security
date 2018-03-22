@@ -53,6 +53,10 @@ Unpacking
 * [DavidKorczynski/RePEconstruct - a tool for automatically unpacking binaries and rebuild the binaries in a manner well-suited for further analysis, specially focused on further manual analysis in IDA pro.](https://github.com/DavidKorczynski/RePEconstruct)
 * [iwseclabs/gunpack](https://bitbucket.org/iwseclabs/gunpack)
 
+Uncategorized
+
+* [trailofbits/ida-evm - IDA Processor Module for the Ethereum Virtual Machine (EVM)](https://github.com/trailofbits/ida-evm)
+
 ## LLDB plugins
 
 * [gdbinit/lldbinit - A gdbinit clone for LLDB](https://github.com/gdbinit/lldbinit/)
