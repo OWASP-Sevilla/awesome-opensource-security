@@ -60,6 +60,7 @@ Uncategorized
 
 ## Attack Simulation
 
+* [redhuntlabs/RedHunt-OS - Virtual Machine for Adversary Emulation and Threat Hunting](https://github.com/redhuntlabs/RedHunt-OS)
 * [vysec/CACTUSTORCH - Payload Generation for Adversary Simulations](https://github.com/vysec/CACTUSTORCH)
 * [NextronSystems/APTSimulator - A toolset to make a system look as if it was the victim of an APT attack](https://github.com/NextronSystems/APTSimulator)
 * [redcanaryco/atomic-red-team - Small and highly portable detection tests mapped to the Mitre ATT&CK Framework](https://github.com/redcanaryco/atomic-red-team)
