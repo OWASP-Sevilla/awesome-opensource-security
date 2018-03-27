@@ -42,6 +42,7 @@ Uncategorized
   * [A quick intro to Needle](https://labs.mwrinfosecurity.com/blog/needle-how-to/)
 * [BishopFox/bfdecrypt - Utility to decrypt App Store apps on jailbroken iOS 11.x](https://github.com/BishopFox/bfdecrypt)
 * [n0fate/iChainbreaker - PoC code for analyzing iCloud Keychain](https://github.com/n0fate/iChainbreaker)
+* [Zuikyo/iOS-System-Symbols - Share iOS system framework's symbol files. Useful for symbolicating iOS crash report](https://github.com/Zuikyo/iOS-System-Symbols)
 
 ## Tutorials
 

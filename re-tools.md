@@ -2,7 +2,6 @@
 
 A collection of open source reverse engineering tools
 
-
 ## IDA Plugins
 
 3rd-party lists
@@ -56,6 +55,7 @@ Unpacking
 Uncategorized
 
 * [trailofbits/ida-evm - IDA Processor Module for the Ethereum Virtual Machine (EVM)](https://github.com/trailofbits/ida-evm)
+* [deepinstinct/dsc_fix - Aids in reverse engineering libraries from dyld_shared_cache in IDA](https://github.com/deepinstinct/dsc_fix)
 
 ## LLDB plugins
 

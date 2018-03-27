@@ -58,6 +58,7 @@ Unpacking
 * [bunnyblue/DexExtractor - android dex extractor](https://github.com/bunnyblue/DexExtractor)
 * [CheckPointSW/android_unpacker - A generic unpacker for packed Android apps](https://github.com/CheckPointSW/android_unpacker)
 * [DrizzleRisk/TUnpacker - TUnpacker是一款Android脱壳工具](https://github.com/DrizzleRisk/TUnpacker)
+* [smartdone/dexdump - 快速脱一代壳的xposed插件](https://github.com/smartdone/dexdump)
 
 Auxiliary
 
