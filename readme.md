@@ -24,3 +24,8 @@ A list of interesting stuffs that I have no time to test/review.
 * [exploits](exploits.md)
 * [macos-tools](macos-tools.md)
 * [database-tools](database-tools.md)
+
+## 3rdpart lists
+
+* [DropsOfZut/awesome-security-weixin-official-accounts - 网络安全类公众号推荐，欢迎大家推荐](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts)
+
