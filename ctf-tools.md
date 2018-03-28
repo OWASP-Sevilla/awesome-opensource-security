@@ -27,4 +27,4 @@ Uncategorized
 
 * [orangetw/My-CTF-Web-Challenges - Collection of CTF Web challenges I made](https://github.com/orangetw/My-CTF-Web-Challenges)
 * [Shiva108/CTF-notes - Mostly CTF notes](https://github.com/Shiva108/CTF-notes)
-
+* [Solveme.peng.kr平台Web题解](http://www.freebuf.com/articles/web/165537.html)
