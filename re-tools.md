@@ -57,6 +57,10 @@ Uncategorized
 * [trailofbits/ida-evm - IDA Processor Module for the Ethereum Virtual Machine (EVM)](https://github.com/trailofbits/ida-evm)
 * [deepinstinct/dsc_fix - Aids in reverse engineering libraries from dyld_shared_cache in IDA](https://github.com/deepinstinct/dsc_fix)
 
+## Binary ninja plugins
+
+* [binja-plugins/djumpo_unchained - de-obfuscates chained jumps](https://github.com/ThisIsSecurity/sinkhole/tree/master/binja-plugins/djumpo_unchained)
+
 ## LLDB plugins
 
 * [gdbinit/lldbinit - A gdbinit clone for LLDB](https://github.com/gdbinit/lldbinit/)

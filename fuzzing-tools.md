@@ -61,3 +61,8 @@ Uncategorized
 ## Tutorials
 
 * [The Art of Fuzzing](https://sec-consult.com/wp-content/uploads/files/vulnlab/the_art_of_fuzzing_slides.pdf)
+* [A example of fuzzing the ceph filesystem](https://github.com/hardenedlinux/Debian-GNU-Linux-Profiles/tree/master/docs/harbian_qa/fuzz_testing/syz_for_ceph)
+
+
+
+

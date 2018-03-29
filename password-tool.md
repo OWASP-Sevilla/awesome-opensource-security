@@ -27,6 +27,7 @@ Cracking
 Uncategorized
 
 * [CboeSecurity/password_pwncheck - Kerberos / Windows AD / Linux PAM password change check against breached lists (HIBP), and other rules](https://github.com/CboeSecurity/password_pwncheck)
+* [guardicore/azure_password_harvesting - Plaintext Password harvesting from Azure Windows VMs](https://github.com/guardicore/azure_password_harvesting)
 
 ## Tutorials
 
