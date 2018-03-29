@@ -137,9 +137,9 @@ Diff/Patch
 
 Auxiliary
 
-* [fireeye/remote_lookup - scan a 32bit process and build an
-export name/address map which can be queried](https://github.com/fireeye/remote_lookup)
+* [fireeye/remote_lookup - scan a 32bit process and build an export name/address map which can be queried](https://github.com/fireeye/remote_lookup)
 * [trailofbits/mcsema - Framework for lifting x86, amd64, and aarch64 program binaries to LLVM bitcode](https://github.com/trailofbits/mcsema)
+* [IDAConnect/IDAConnect - [WIP] Collaborative Reverse Engineering plugin for IDA Pro & Hex-Rays](https://github.com/IDAConnect/IDAConnect)
 
 ## Scripts
 
