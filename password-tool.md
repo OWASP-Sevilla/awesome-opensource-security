@@ -23,6 +23,7 @@ Password generator
 Cracking
 
 * [hashview - A web front-end for password cracking and analytics](https://github.com/hashview/hashview)
+* [m4ll0k/iCloudBrutter - a simple python (3.x) script to perform basic bruteforce attack againts AppleID](https://github.com/m4ll0k/iCloudBrutter)
 
 Uncategorized
 
