@@ -130,6 +130,7 @@ Uncategorized
 * [BryanSharp/hibeaver - an android plugin for AOP design by modifying project byte code during build of the package](https://github.com/BryanSharp/hibeaver)
 * [bkerler/dump_avb_signature - Dump/Verify Android Verified Boot Signature Hash](https://github.com/bkerler/dump_avb_signature)
 * [android-art-intel/Nougat - ART-Extension for Android Nougat](https://github.com/android-art-intel/Nougat)
+* [XekriCorp/LeakVM - Research & Pentesting Framework for Android, Run security tests instantly](https://github.com/XekriCorp/LeakVM)
 
 ## Wiki
 
