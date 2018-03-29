@@ -56,6 +56,7 @@ Uncategorized
 
 * [trailofbits/ida-evm - IDA Processor Module for the Ethereum Virtual Machine (EVM)](https://github.com/trailofbits/ida-evm)
 * [deepinstinct/dsc_fix - Aids in reverse engineering libraries from dyld_shared_cache in IDA](https://github.com/deepinstinct/dsc_fix)
+* [a1ext/auto_re - IDA PRO auto-renaming plugin with tagging support](https://github.com/a1ext/auto_re)
 
 ## Binary ninja plugins
 
