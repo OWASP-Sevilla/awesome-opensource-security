@@ -22,6 +22,10 @@ Windows AD
 * [canix1/ADACLScanner - Your number one script for ACL's in Active Directory](https://github.com/canix1/ADACLScanner)
 * [cyberark/ACLight - A script for advanced discovery of Privileged Accounts - includes Shadow Admins](https://github.com/cyberark/ACLight)
 
+Linux kernel
+
+* [openwall: LKRG - Linux Kernel Runtime Guard](http://www.openwall.com/lkrg/)
+
 SQLServer
 
 * [sqlcollaborative/dbachecks - a framework created by and for SQL Server pros who need to validate their environments](https://github.com/sqlcollaborative/dbachecks)
