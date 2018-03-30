@@ -91,6 +91,7 @@ Analysis framework / Integrated Environment
 * [AndroidSecurityTools/lobotomy - Android security toolkit that will automate different Android assessments and reverse engineering tasks](https://github.com/AndroidSecurityTools/lobotomy)
 * [AndroidVTS/android-vts - Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts)
 * [Qrilee/ApkToolBox - ApkTool Box，Apk集成反编译工具箱](https://github.com/Qrilee/ApkToolBox)
+* [abhi-r3v0/Adhrit - an open source Android APK reversing and analysis tool that can help secuity researchers and CTF enthusiasts alike](https://github.com/abhi-r3v0/Adhrit/)
 
 Fastboot tool
 
