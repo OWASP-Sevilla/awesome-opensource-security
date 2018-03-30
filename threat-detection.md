@@ -12,15 +12,16 @@ Sniffer
 
 * [dirtbags/pcapdb - A Distributed, Search-Optimized Full Packet Capture System](https://github.com/dirtbags/pcapdb)
 * [TravisFSmith/SweetSecurity - Network Security Monitoring on Raspberry Pi type devices](https://github.com/TravisFSmith/SweetSecurity)
-* [noddos - Noddos client ](https://github.com/noddos/noddos)
+* [noddos - Noddos client](https://github.com/noddos/noddos)
 
-Host based detection tools
+Host based detection tools / endpoint tools
 
 * [Invoke-IR/Uproot - a Host Based Intrusion Detection System (HIDS) that leverages Permanent Windows Management Instrumentation (WMI) Event Susbcriptions to detect malicious activity on a network](https://github.com/Invoke-IR/Uproot)
 * [hasherezade/pe-sieve - Scans a given process, searching for the modules containing in-memory code modifications. When found, it dumps the modified PE](https://github.com/hasherezade/pe-sieve)
 * [hasherezade/hollows_hunter - A process scanner detecting and dumping hollowed PE modules](https://github.com/hasherezade/hollows_hunter)
 * [shellster/DCSYNCMonitor - Monitors for DCSYNC and DCSHADOW attacks and create custom Windows Events for these events](https://github.com/shellster/DCSYNCMonitor)
 * [jaredcatkinson/Get-InjectedThread.ps1 - Looks for threads that were created as a result of code injection](https://gist.github.com/jaredcatkinson/23905d34537ce4b5b1818c3e6405c1d2)
+* [TonyPhipps/THRecon - Collect endpoint information for use in incident response triage / threat hunting / live forensics using this toolkit](https://github.com/TonyPhipps/THRecon)
 
 Webshell
 

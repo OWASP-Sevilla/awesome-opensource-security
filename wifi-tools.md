@@ -44,6 +44,7 @@ Frameworks
 * [arismelachroinos/lscript - The LAZY script will make your life easier, and of course faster](https://github.com/arismelachroinos/lscript)
 * [Tylous/SniffAir - A framework for wireless pentesting](https://github.com/Tylous/SniffAir)
 * [savio-code/fern-wifi-cracker - a Wireless security auditing and attack software](https://github.com/savio-code/fern-wifi-cracker)
+* [xtr4nge/FruityWifi - a wireless network auditing tool](https://github.com/xtr4nge/FruityWifi)
 
 Uncategorized
 
