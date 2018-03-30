@@ -8,6 +8,7 @@ Signature database
 
 * [pwnsdx/BadCode - a signature database for static source code scanner that identify bad security practices.](https://github.com/pwnsdx/BadCode)
 * [wireghoul/graudit - Grep rough audit - source code auditing tool](https://github.com/wireghoul/graudit)
+* [frizb/SourceCodeSniffer - The Source Code Sniffer is a poor man’s static code analysis tool (SCA) that leverages regular expressions](https://github.com/frizb/SourceCodeSniffer)
 
 Scanning for known vulnerability
 
