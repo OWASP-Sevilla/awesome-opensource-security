@@ -9,6 +9,7 @@ A list of interesting stuffs that I have no time to test/review.
 * [hardening](hardening.md)
 * [ios-tools](ios-tools.md)
 * [password-tool](password-tool.md)
+* [payloads](payloads.md)
 * [pentest-tools](pentest-tools.md)
 * [powershell-tools](powershell-tools.md)
 * [re-tools](re-tools.md)
