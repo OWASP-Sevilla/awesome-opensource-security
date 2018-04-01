@@ -14,7 +14,7 @@ A list of interesting stuffs that I have no time to test/review.
 * [powershell-tools](powershell-tools.md)
 * [re-tools](re-tools.md)
 * [shellcode-tools](shellcode-tools.md)
-* [wifi-tools](wifi-tools.md)
+* [wireless-tools](wireless-tools.md)
 * [sdr-tools](sdr-tools.md)
 * [threat-detection](threat-detection.md)
 * [malware-analysis](malware-analysis.md)
