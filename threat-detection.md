@@ -66,6 +66,8 @@ Uncategorized
 
 ## Attack Simulation
 
+Tools
+
 * [redhuntlabs/RedHunt-OS - Virtual Machine for Adversary Emulation and Threat Hunting](https://github.com/redhuntlabs/RedHunt-OS)
 * [vysec/CACTUSTORCH - Payload Generation for Adversary Simulations](https://github.com/vysec/CACTUSTORCH)
 * [NextronSystems/APTSimulator - A toolset to make a system look as if it was the victim of an APT attack](https://github.com/NextronSystems/APTSimulator)
@@ -73,6 +75,10 @@ Uncategorized
 * [mitre/caldera - An automated adversary emulation system](https://github.com/mitre/caldera)
    * [INSTALL/SETUP MITRE CALDERA THE AUTOMATED CYBER ADVERSARY EMULATION SYSTEM](https://holdmybeersecurity.com/2018/01/13/install-setup-mitre-caldera-the-automated-cyber-adversary-emulation-system/)
 * [uber-common/metta - An information security preparedness tool to do adversarial simulation](https://github.com/uber-common/metta)
+
+Dataset
+
+* [daveherrald/botsv1 - Splunk Boss of the SOC v1 data set](https://github.com/daveherrald/botsv1)
 
 ## Books
 
