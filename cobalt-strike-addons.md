@@ -14,4 +14,4 @@ Exploits
 * [harleyQu1nn/AggressorScripts - Collection of Aggressor scripts for Cobalt Strike 3.0+ pulled from multiple sources](https://github.com/harleyQu1nn/AggressorScripts)
 * [killswitch-GUI/CobaltStrike-ToolKit - Some useful scripts for CobaltStrike](https://github.com/killswitch-GUI/CobaltStrike-ToolKit)
 * [invokethreatguy/CSASC - Cobalt Strike Aggressor Script Collection](https://github.com/invokethreatguy/CSASC)
-
+* [RhinoSecurityLabs/Aggressor-Scripts - Aggregation of Cobalt Strike's aggressor scripts](https://github.com/RhinoSecurityLabs/Aggressor-Scripts)
