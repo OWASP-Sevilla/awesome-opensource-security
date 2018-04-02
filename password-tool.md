@@ -24,6 +24,9 @@ Cracking
 
 * [hashview - A web front-end for password cracking and analytics](https://github.com/hashview/hashview)
 * [m4ll0k/iCloudBrutter - a simple python (3.x) script to perform basic bruteforce attack againts AppleID](https://github.com/m4ll0k/iCloudBrutter)
+* [x90skysn3k/brutespray - Brute-Forcing from Nmap output - Automatically attempts default creds on found services](https://github.com/x90skysn3k/brutespray)
+* [dafthack/DomainPasswordSpray - a tool written in PowerShell to perform a password spray attack against users of a domain](https://github.com/dafthack/DomainPasswordSpray)
+* [Moham3dRiahi/XBruteForcer - Brute Force Tool unlock WordPress, Joomla, Drupal, OpenCart, Magento](https://github.com/Moham3dRiahi/XBruteForcer)
 
 Uncategorized
 
