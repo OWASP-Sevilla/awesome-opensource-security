@@ -30,4 +30,3 @@ Evasion
 Uncategorized
 
 * [secretsquirrel/fido - Teaching old shellcode new tricks](https://github.com/secretsquirrel/fido)
-

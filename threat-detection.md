@@ -23,6 +23,7 @@ Host based detection tools / endpoint tools
 * [shellster/DCSYNCMonitor - Monitors for DCSYNC and DCSHADOW attacks and create custom Windows Events for these events](https://github.com/shellster/DCSYNCMonitor)
 * [jaredcatkinson/Get-InjectedThread.ps1 - Looks for threads that were created as a result of code injection](https://gist.github.com/jaredcatkinson/23905d34537ce4b5b1818c3e6405c1d2)
 * [TonyPhipps/THRecon - Collect endpoint information for use in incident response triage / threat hunting / live forensics using this toolkit](https://github.com/TonyPhipps/THRecon)
+* [ysrc/yulong-hids - 一款由 YSRC 开源的主机入侵检测系统](https://github.com/ysrc/yulong-hids)
 
 Webshell
 
