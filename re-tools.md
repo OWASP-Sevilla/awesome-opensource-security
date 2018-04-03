@@ -146,6 +146,10 @@ Auxiliary
 * [trailofbits/mcsema - Framework for lifting x86, amd64, and aarch64 program binaries to LLVM bitcode](https://github.com/trailofbits/mcsema)
 * [IDAConnect/IDAConnect - [WIP] Collaborative Reverse Engineering plugin for IDA Pro & Hex-Rays](https://github.com/IDAConnect/IDAConnect)
 
+Network protocol analysis
+
+* [laf0rge/udtrace - UNIX domain socket tracing LD_PRELOAD wrapper](https://github.com/laf0rge/udtrace)
+
 ## Scripts
 
 * [vallejocc/Reverse-Engineering-Arsenal - Useful Scripts for helping in reverse engeenering](https://github.com/vallejocc/Reverse-Engineering-Arsenal)

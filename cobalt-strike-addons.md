@@ -21,3 +21,6 @@ Auxiliary tools
 * [vysec/MorphHTA - Morphing Cobalt Strike's evil.HTA](https://github.com/vysec/MorphHTA)
 * [/Mr-Un1k0d3r/SCT-obfuscator - Cobalt Strike SCT payload obfuscator](https://github.com/Mr-Un1k0d3r/SCT-obfuscator)
 
+## Tutorials
+
+* [Exploring Cobalt Strike's ExternalC2 framework](https://blog.xpnsec.com/exploring-cobalt-strikes-externalc2-framework/)
