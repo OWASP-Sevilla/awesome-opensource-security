@@ -16,6 +16,8 @@ Exploits
 * [invokethreatguy/CSASC - Cobalt Strike Aggressor Script Collection](https://github.com/invokethreatguy/CSASC)
 * [RhinoSecurityLabs/Aggressor-Scripts - Aggregation of Cobalt Strike's aggressor scripts](https://github.com/RhinoSecurityLabs/Aggressor-Scripts)
 
-Uncategorized
+Auxiliary tools
 
 * [vysec/MorphHTA - Morphing Cobalt Strike's evil.HTA](https://github.com/vysec/MorphHTA)
+* [/Mr-Un1k0d3r/SCT-obfuscator - Cobalt Strike SCT payload obfuscator](https://github.com/Mr-Un1k0d3r/SCT-obfuscator)
+
