@@ -125,6 +125,7 @@ Packer
 
 Uncategorized
 
+* [UltimateHackers/Diggy - Extract enpoints from apk files](https://github.com/UltimateHackers/Diggy)
 * [oranav/i9300_emmc_toolbox - Samsung Galaxy S3 GT-I9300 eMMC toolbox](https://github.com/oranav/i9300_emmc_toolbox)
 * [Genymobile/scrcpy - Display and control your Android device](https://github.com/Genymobile/scrcpy)
 * [WooyunDota/DroidSSLUnpinning - Android certificate pinning disable tools](https://github.com/WooyunDota/DroidSSLUnpinning)
