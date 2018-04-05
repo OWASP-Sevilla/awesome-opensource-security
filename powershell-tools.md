@@ -12,6 +12,10 @@ Office
 
 * [colemination/PowerOutlook - Sample code from Owning MS Outlook with Powershell](https://github.com/colemination/PowerOutlook)
 
+Obfuscator
+
+* [danielbohannon/Invoke-CradleCrafter - PowerShell Remote Download Cradle Generator & Obfuscator](https://github.com/danielbohannon/Invoke-CradleCrafter)
+
 Post exploitation
 
 * [peewpw/Invoke-WCMDump - PowerShell Script to Dump Windows Credentials from the Credential Manager](https://github.com/peewpw/Invoke-WCMDump)
