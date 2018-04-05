@@ -4,6 +4,7 @@
 
 Uncategorized
 
+* [madhuakula/wincmdfu - Windows one line commands that make life easier, shortcuts and command line fu](https://github.com/madhuakula/wincmdfu)
 * [D4Vinci/One-Lin3r - Gives you one-liners that aids in penetration testing operations](https://github.com/D4Vinci/One-Lin3r)
 * [swisskyrepo/PayloadsAllTheThings - A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [EdOverflow/bugbounty-cheatsheet - A list of interesting payloads, tips and tricks for bug bounty hunters](https://github.com/EdOverflow/bugbounty-cheatsheet)
