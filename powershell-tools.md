@@ -15,6 +15,7 @@ Office
 Obfuscator
 
 * [danielbohannon/Invoke-CradleCrafter - PowerShell Remote Download Cradle Generator & Obfuscator](https://github.com/danielbohannon/Invoke-CradleCrafter)
+* [danielbohannon/Invoke-Obfuscation - PowerShell Obfuscator](https://github.com/danielbohannon/Invoke-Obfuscation)
 
 Post exploitation
 
