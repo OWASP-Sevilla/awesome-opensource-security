@@ -42,6 +42,7 @@ ActiveX
 
 Uncategorized
 
+* [renatahodovan/fuzzinator - Fuzzinator Random Testing Framework](https://github.com/renatahodovan/fuzzinator)
 * [google/honggfuzz - Security oriented fuzzer with powerful analysis options. Supports evolutionary, feedback-driven fuzzing based on code coverage (software- and hardware-based)](https://github.com/google/honggfuzz)
 * [AFL - american fuzzy lop](http://lcamtuf.coredump.cx/afl/)
   * [ivanfratric/winafl - A fork of AFL for fuzzing Windows binaries](https://github.com/ivanfratric/winafl)
