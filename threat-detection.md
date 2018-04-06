@@ -62,6 +62,7 @@ Sandbox analysis
 
 Uncategorized
 
+* [phishai/phish-protect - Chrome extension to alert and possibly block IDN/Unicode websites and zero-day phishing websites using AI and Computer Vision](https://github.com/phishai/phish-protect)
 * [MiSecurity/x-patrol - Github 泄露扫描系统](https://github.com/MiSecurity/x-patrol)
 * [Cyb3rWard0g/HELK - The Hunting ELK](https://github.com/Cyb3rWard0g/HELK)
    * [toolsmith #131 - The HELK vs APTSimulator - Part 1](https://holisticinfosec.blogspot.com.au/2018/02/toolsmith-131-helk-vs-aptsimulator-part.html)
