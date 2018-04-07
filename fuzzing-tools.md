@@ -25,6 +25,7 @@ Kernel
 * [ucsb-seclab/difuze - Fuzzer for Linux Kernel Drivers](https://github.com/ucsb-seclab/difuze)
 * [google/syzkaller - an unsupervised, coverage-guided kernel fuzzer](https://github.com/google/syzkaller/)
 * [TriforceLinuxSyscallFuzzer - A linux system call fuzzer using TriforceAFL](https://github.com/nccgroup/TriforceLinuxSyscallFuzzer)
+* [Cr4sh/ioctlfuzzer - a tool designed to automate the task of searching vulnerabilities in Windows kernel drivers by performing fuzz tests on them](https://github.com/Cr4sh/ioctlfuzzer)
 
 Symbolic execution
 

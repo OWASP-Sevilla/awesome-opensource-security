@@ -11,6 +11,7 @@ Uncategorized
 * [1N3/IntruderPayloads - A collection of Burpsuite Intruder payloads, fuzz lists and file uploads](https://github.com/1N3/IntruderPayloads)
 * [redcanaryco/atomic-red-team - Small and highly portable detection tests](https://github.com/redcanaryco/atomic-red-team)
 * [tennc/fuzzdb - 一个fuzzdb扩展库](https://github.com/tennc/fuzzdb)
+* [mdsecactivebreach/SharpShooter - Payload Generation Framework](https://github.com/mdsecactivebreach/SharpShooter)
 
 XXE
 
