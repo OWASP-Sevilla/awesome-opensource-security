@@ -25,6 +25,7 @@ A list of interesting stuffs that I have no time to test/review.
 * [exploits](exploits.md)
 * [macos-tools](macos-tools.md)
 * [database-tools](database-tools.md)
+* [hardware-tools](hardware-tools.md)
 
 ## 3rdpart lists
 
