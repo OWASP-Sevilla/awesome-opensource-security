@@ -10,6 +10,10 @@ Dictionary files
 * [OWASP/OpenDoor](https://github.com/stanislav-web/OpenDoor/tree/master/data)
 * [droope/pwlist - Password lists obtained from strangers attempting to log in to my server](https://github.com/droope/pwlist)
 
+Dictionary tools
+
+* [pentester-io/commonspeak - Content discovery wordlists generated using BigQuery](https://github.com/pentester-io/commonspeak)
+
 Password generator
 
 * [bit4woo/passmaker](https://github.com/bit4woo/passmaker)

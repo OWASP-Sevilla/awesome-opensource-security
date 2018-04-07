@@ -12,6 +12,10 @@ Office
 
 * [colemination/PowerOutlook - Sample code from Owning MS Outlook with Powershell](https://github.com/colemination/PowerOutlook)
 
+Deobfuscation
+
+* [R3MRUM/PSDecode - PowerShell script for deobfuscating encoded PowerShell scripts](https://github.com/R3MRUM/PSDecode)
+
 Obfuscator
 
 * [danielbohannon/Invoke-CradleCrafter - PowerShell Remote Download Cradle Generator & Obfuscator](https://github.com/danielbohannon/Invoke-CradleCrafter)
@@ -31,4 +35,6 @@ Decoder / Deobfuscation
 Uncategorized
 
 * [trustedsec/unicorn - a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.](https://github.com/trustedsec/unicorn)
+* [https://github.com/rvrsh3ll/Misc-Powershell-Scripts](https://github.com/rvrsh3ll/Misc-Powershell-Scripts)
+
 
