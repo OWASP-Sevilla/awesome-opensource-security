@@ -12,6 +12,10 @@ DMA
 
 * [ufrisk/pcileech - Direct Memory Access (DMA) Attack Software](https://github.com/ufrisk/pcileech/)
 
+Bluetooth
+
+* [evilsocket/bleah - A BLE scanner for "smart" devices hacking](https://github.com/evilsocket/bleah)
+
 Uncategorized
 
 * [insecurityofthings/jackit - Exploit Code for Mousejack](https://github.com/insecurityofthings/jackit)
