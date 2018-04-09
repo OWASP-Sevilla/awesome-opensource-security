@@ -30,6 +30,7 @@ Mac
 * [ydkhatri/mac_apt - macOS Artifact Parsing Tool](https://github.com/ydkhatri/mac_apt)
 * [Yelp/osxcollector - A forensic evidence collection & analysis toolkit for OS X](https://github.com/Yelp/osxcollector)
 * [mac4n6/macMRU-Parser - parse the Most Recently Used (MRU) plist files on macOS into a more human friendly format](https://github.com/mac4n6/macMRU-Parser)
+* [pstirparo/mac4n6 - Collection of forensics artifacs location for Mac OS X and iOS](https://github.com/pstirparo/mac4n6)
 
 Linux
 
