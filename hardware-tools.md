@@ -21,4 +21,4 @@ Uncategorized
 
 * [insecurityofthings/jackit - Exploit Code for Mousejack](https://github.com/insecurityofthings/jackit)
   * [如何远程控制别人的无线鼠标：深度揭露鼠标劫持内幕](https://www.anquanke.com/post/id/86784)
-
+* [mharjac/bad_ducky - Rubber Ducky compatible clone based on CJMCU BadUSB HW](https://github.com/mharjac/bad_ducky)
