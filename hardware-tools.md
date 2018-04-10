@@ -15,6 +15,7 @@ DMA
 Bluetooth
 
 * [evilsocket/bleah - A BLE scanner for "smart" devices hacking](https://github.com/evilsocket/bleah)
+* [securing/gattacker - A Node.js package for BLE (Bluetooth Low Energy) security assessment using Man-in-the-Middle and other attacks](https://github.com/securing/gattacker)
 
 Uncategorized
 
