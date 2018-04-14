@@ -12,6 +12,10 @@ Office
 
 * [colemination/PowerOutlook - Sample code from Owning MS Outlook with Powershell](https://github.com/colemination/PowerOutlook)
 
+IOT
+
+* [PowerShell/PowerShell-IoT - Interact with I2C, SPI & GPIO devices using PowerShell Core](https://github.com/PowerShell/PowerShell-IoT)
+
 Deobfuscation
 
 * [R3MRUM/PSDecode - PowerShell script for deobfuscating encoded PowerShell scripts](https://github.com/R3MRUM/PSDecode)
