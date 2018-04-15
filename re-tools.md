@@ -23,7 +23,7 @@ Diff / Patch
 
 FLIRT / Signatures
 
-* [Maktm/FLIRTDB - A community driven collection of IDA FLIRT signature files](https://github.com/Maktm/FLIRTDB)
+* [michaelkiros/FLIRTDB - A community driven collection of IDA FLIRT signature files](https://github.com/michaelkiros/FLIRTDB)
 * [polymorf/findcrypt-yara - IDA pro plugin to find crypto constants (and more)](https://github.com/polymorf/findcrypt-yara)
 
 UEFI 
