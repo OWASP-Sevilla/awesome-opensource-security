@@ -42,6 +42,11 @@ Powershell
 
 * [danielbohannon/Revoke-Obfuscation - PowerShell Obfuscation Detection Framework](https://github.com/danielbohannon/Revoke-Obfuscation)
 
+Logging
+
+* [Scribery/tlog - Terminal I/O logger](https://github.com/Scribery/tlog)
+  * [USER SESSION RECORDING - An Open Source solution](https://ruxcon.org.au/assets/2017/slides/Session%20Recording%20Ruxcon%202017.pdf)
+
 Log analysis / Visualization
 
 * [JPCERTCC/LogonTracer - Investigate malicious Windows logon by visualizing and analyzing Windows event log](https://github.com/JPCERTCC/LogonTracer)
