@@ -4,6 +4,10 @@ A collection of open source hardware tools
 
 ## Collections
 
+3rdparty lists
+
+* [PreOS-Security/awesome-firmware-security - Awesome Firmware Security & Other Helpful Documents](https://github.com/PreOS-Security/awesome-firmware-security)
+
 HID 
 
 * [whid-injector/WHID - WiFi HID Injector - An USB Rubberducky / BadUSB On Steroids](https://github.com/whid-injector/WHID)
