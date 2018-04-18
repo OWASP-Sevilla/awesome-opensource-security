@@ -169,5 +169,5 @@ Tutorials
 
 * [Binary protection schemes by Andrew Griffiths](http://www.bitlackeys.org/resources/binary_protection_schemes.pdf)
 * [sigalor/whatsapp-web-reveng - Reverse engineering WhatsApp Web](https://github.com/sigalor/whatsapp-web-reveng)
-
+* [How to become the best Malware Analyst E-V-E-R](http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/)
 

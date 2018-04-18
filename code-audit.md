@@ -42,6 +42,10 @@ Java
 
 * [fergarrui/custom-bytecode-analyzer - Java bytecode analyzer customizable via JSON rule](https://github.com/fergarrui/custom-bytecode-analyzer)
 
+Python
+
+* [python-security/pyt - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications](https://github.com/python-security/pyt)
+
 PHP
 
 * [Qihoo360/phptrace - A tracing and troubleshooting tool for PHP scripts](https://github.com/Qihoo360/phptrace)

@@ -43,6 +43,7 @@ ActiveX
 
 Uncategorized
 
+* [IOActive/XDiFF - Extended Differential Fuzzing Framework](https://github.com/IOActive/XDiFF)
 * [renatahodovan/fuzzinator - Fuzzinator Random Testing Framework](https://github.com/renatahodovan/fuzzinator)
 * [google/honggfuzz - Security oriented fuzzer with powerful analysis options. Supports evolutionary, feedback-driven fuzzing based on code coverage (software- and hardware-based)](https://github.com/google/honggfuzz)
 * [AFL - american fuzzy lop](http://lcamtuf.coredump.cx/afl/)
@@ -64,7 +65,7 @@ Uncategorized
 
 * [The Art of Fuzzing](https://sec-consult.com/wp-content/uploads/files/vulnlab/the_art_of_fuzzing_slides.pdf)
 * [A example of fuzzing the ceph filesystem](https://github.com/hardenedlinux/Debian-GNU-Linux-Profiles/tree/master/docs/harbian_qa/fuzz_testing/syz_for_ceph)
-
+* [Domato Fuzzer's Generation Engine Internals](https://www.sigpwn.io/blog/2018/4/14/domato-fuzzers-generation-engine-internals)
 
 
 
