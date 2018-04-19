@@ -87,6 +87,10 @@ Tools
 * [mitre/caldera - An automated adversary emulation system](https://github.com/mitre/caldera)
    * [INSTALL/SETUP MITRE CALDERA THE AUTOMATED CYBER ADVERSARY EMULATION SYSTEM](https://holdmybeersecurity.com/2018/01/13/install-setup-mitre-caldera-the-automated-cyber-adversary-emulation-system/)
 * [uber-common/metta - An information security preparedness tool to do adversarial simulation](https://github.com/uber-common/metta)
+* [endgameinc/RTA - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK.](https://github.com/endgameinc/RTA)
+* [TryCatchHCF/DumpsterFire - DumpsterFire Toolset - "Security Incidents In A Box!"](https://github.com/TryCatchHCF/DumpsterFire)
+* [jymcheong/AutoTTP - Automated Tactics Techniques & Procedures](https://github.com/jymcheong/AutoTTP)
+* [Cyb3rWard0g/Invoke-ATTACKAPI - A PowerShell script to interact with the MITRE ATT&CK Framework via its own API](https://github.com/Cyb3rWard0g/Invoke-ATTACKAPI)
 
 Dataset
 
@@ -99,7 +103,7 @@ Dataset
 ## Tutorials
 
 * [Tales of a Threat Hunter 2 - Following the trace of WMI Backdoors & other nastiness](https://www.eideon.com/2018-03-02-THL03-WMIBackdoors/)
-
+* [awslabs/aws-security-automation - Collection of scripts and resources for DevSecOps and Automated Incident Response Security](https://github.com/awslabs/aws-security-automation)
 
 
 
