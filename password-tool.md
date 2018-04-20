@@ -23,6 +23,7 @@ Password generator
 * [Viralmaniar/Passhunt - a simple tool for searching of default credentials for network devices, web applications and more](https://github.com/Viralmaniar/Passhunt)
 * [tweksteen/jenkins-decrypt - Credentials dumper for Jenkins](https://github.com/tweksteen/jenkins-decrypt)
 * [berzerk0/Probable-Wordlists - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular](https://github.com/berzerk0/Probable-Wordlists)
+* [NotSoSecure/password_cracking_rules - One rule to crack all passwords. or atleast we hope so](https://github.com/NotSoSecure/password_cracking_rules)
 
 Cracking
 
