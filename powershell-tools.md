@@ -19,6 +19,8 @@ IOT
 Deobfuscation
 
 * [R3MRUM/PSDecode - PowerShell script for deobfuscating encoded PowerShell scripts](https://github.com/R3MRUM/PSDecode)
+* [JohnLaTwC/PyPowerShellXray - Python script to decode common encoded PowerShell scripts](https://github.com/JohnLaTwC/PyPowerShellXray)
+  * [testcases: Brazil PS1 threat](https://gist.github.com/JohnLaTwC/0742432fad30cd00ccb4ae742a703e3e)
 
 Obfuscator
 
