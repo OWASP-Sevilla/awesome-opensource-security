@@ -13,6 +13,7 @@ Dictionary files
 Dictionary tools
 
 * [pentester-io/commonspeak - Content discovery wordlists generated using BigQuery](https://github.com/pentester-io/commonspeak)
+* [skahwah/wordsmith - The aim of Wordsmith is to assist with creating tailored wordlists](https://github.com/skahwah/wordsmith)
 
 Password generator
 
@@ -33,6 +34,7 @@ Cracking
 * [dafthack/DomainPasswordSpray - a tool written in PowerShell to perform a password spray attack against users of a domain](https://github.com/dafthack/DomainPasswordSpray)
 * [Moham3dRiahi/XBruteForcer - Brute Force Tool unlock WordPress, Joomla, Drupal, OpenCart, Magento](https://github.com/Moham3dRiahi/XBruteForcer)
 * [Raikia/CredNinja - A multithreaded tool designed to identify if credentials are valid, invalid, or local admin valid credentials within a network at-scale via SMB, plus now with a user hunter](https://github.com/Raikia/CredNinja)
+* [s3inlc/hashtopolis - A Hashcat wrapper for distributed hashcracking](https://github.com/s3inlc/hashtopolis)
 
 Uncategorized
 

@@ -25,6 +25,10 @@ All-in-one suite
 * [FeeiCN/cobra - Source Code Security Audit (源代码安全审计) ](https://github.com/FeeiCN/cobra)
 * [SonarSource - Continuous Code Quality](https://github.com/SonarSource/sonarqube)
   
+C++
+
+* [vusec/typesan - TypeSan checks casts in C++ code - code released for CCS 2016](https://github.com/vusec/typesan)
+
 Ruby
 
 * [thesp0nge/dawnscanner - a static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks](https://github.com/thesp0nge/dawnscanner)

@@ -76,6 +76,7 @@ Instrumentation
 * [android-hacker/VirtualXposed - A Simple App to use Xposed without root or unlock the bootloader(or modify system image etc)](https://github.com/android-hacker/VirtualXposed/blob/exposed/CHINESE.md)
 * [rrrfff/AndHook - Android hook framework](https://github.com/rrrfff/AndHook)
 * [AndroidHooker/hooker - an opensource project for dynamic analyses of Android applications](https://github.com/AndroidHooker/hooker)
+* [iqiyi/xHook - a PLT (Procedure Linkage Table) hook library for Android native ELF (executable and shared libraries)](https://github.com/iqiyi/xHook)
 
 Analysis framework / Integrated Environment
 

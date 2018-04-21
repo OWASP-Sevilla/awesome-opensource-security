@@ -13,6 +13,7 @@ Sniffing
 
 * [brannondorsey/sniff-probes - Plug-and-play bash script for sniffing 802.11 probes requests](https://github.com/brannondorsey/sniff-probes)
 * [xdavidhu/probeSniffer - A tool for sniffing unencrypted wireless probe requests from devices](https://github.com/xdavidhu/probeSniffer)
+* [tehw0lf/airbash - a fully automated WPA PSK handshake capture script aimed at penetration testing](https://github.com/tehw0lf/airbash)
 
 Jamming
 
