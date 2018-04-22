@@ -34,6 +34,7 @@ Post exploitation
 * [xorrior/RandomPS-Scripts - PowerShell Scripts focused on Post-Exploitation Capabilities](https://github.com/xorrior/RandomPS-Scripts)
 * [danielbohannon/Invoke-CradleCrafter - PowerShell Remote Download Cradle Generator & Obfuscator](https://github.com/danielbohannon/Invoke-CradleCrafter)
 * [Cn33liz/p0wnedShell - PowerShell Runspace Post Exploitation Toolkit](https://github.com/Cn33liz/p0wnedShell)
+* [PowerTools/PowerPick - Various ways of executing Powershell functionality without the use of Powershell](https://github.com/PowerShellEmpire/PowerTools/tree/master/PowerPick)
 
 Decoder / Deobfuscation
 
