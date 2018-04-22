@@ -8,6 +8,11 @@ A collection of open source hardware tools
 
 * [PreOS-Security/awesome-firmware-security - Awesome Firmware Security & Other Helpful Documents](https://github.com/PreOS-Security/awesome-firmware-security)
 
+Unpacking
+
+* [ReFirmLabs/binwalk - Firmware Analysis Tool](https://github.com/ReFirmLabs/binwalk)
+* [attify/firmware-analysis-toolkit - Toolkit to emulate firmware and analyse it for security vulnerabilities](https://github.com/attify/firmware-analysis-toolkit)
+
 HID 
 
 * [whid-injector/WHID - WiFi HID Injector - An USB Rubberducky / BadUSB On Steroids](https://github.com/whid-injector/WHID)
