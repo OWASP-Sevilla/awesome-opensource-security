@@ -26,6 +26,7 @@ Kernel
 * [google/syzkaller - an unsupervised, coverage-guided kernel fuzzer](https://github.com/google/syzkaller/)
 * [TriforceLinuxSyscallFuzzer - A linux system call fuzzer using TriforceAFL](https://github.com/nccgroup/TriforceLinuxSyscallFuzzer)
 * [Cr4sh/ioctlfuzzer - a tool designed to automate the task of searching vulnerabilities in Windows kernel drivers by performing fuzz tests on them](https://github.com/Cr4sh/ioctlfuzzer)
+* [hfiref0x/NtCall64 - Windows NT x64 syscall fuzzer](https://github.com/hfiref0x/NtCall64)
 
 Symbolic execution
 

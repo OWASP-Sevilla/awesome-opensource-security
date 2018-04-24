@@ -49,6 +49,7 @@ Frameworks
 
 Uncategorized
 
+* [spacehuhn/esp8266_deauther - ESP8266 deauther](https://github.com/spacehuhn/esp8266_deauther)
 * [360PegasusTeam/WiFi-Miner-Detector - Detecting malicious WiFi with mining cryptocurrency](https://github.com/360PegasusTeam/WiFi-Miner-Detector)
 
 ## Pocs
