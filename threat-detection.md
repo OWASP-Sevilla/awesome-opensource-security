@@ -26,6 +26,7 @@ Host based detection tools / endpoint tools
   * [Understanding and Evading Get-InjectedThread](https://blog.xpnsec.com/undersanding-and-evading-get-injectedthread/)
 * [TonyPhipps/THRecon - Collect endpoint information for use in incident response triage / threat hunting / live forensics using this toolkit](https://github.com/TonyPhipps/THRecon)
 * [ysrc/yulong-hids - 一款由 YSRC 开源的主机入侵检测系统](https://github.com/ysrc/yulong-hids)
+* [Neo23x0/Fenrir - Simple Bash IOC Scanner](https://github.com/Neo23x0/Fenrir)
 
 Webshell
 
@@ -92,6 +93,7 @@ Tools
 * [TryCatchHCF/DumpsterFire - DumpsterFire Toolset - "Security Incidents In A Box!"](https://github.com/TryCatchHCF/DumpsterFire)
 * [jymcheong/AutoTTP - Automated Tactics Techniques & Procedures](https://github.com/jymcheong/AutoTTP)
 * [Cyb3rWard0g/Invoke-ATTACKAPI - A PowerShell script to interact with the MITRE ATT&CK Framework via its own API](https://github.com/Cyb3rWard0g/Invoke-ATTACKAPI)
+* [CyberMonitor/Invoke-Adversary - Simulating Adversary Operations](https://github.com/CyberMonitor/Invoke-Adversary)
 
 Dataset
 
