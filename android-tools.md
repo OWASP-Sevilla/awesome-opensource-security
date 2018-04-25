@@ -69,6 +69,7 @@ Instrumentation
 * [frida - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers](https://github.com/frida/frida)
    * [brompwnie/uitkyk - Android Frida library to hunt Android Malware](https://github.com/brompwnie/uitkyk)
    * [VerSprite/engage - Scripts and Resources for the Frida Engage Blog Series](https://github.com/VerSprite/engage)
+   * [Mind0xP/Frida-Python-Binding - Easy to use Frida python binding script](https://github.com/Mind0xP/Frida-Python-Binding)
 * [samsung/adbi - Android Dynamic Binary Instrumentation tool for tracing Android native layer](https://github.com/samsung/adbi)
 * [ac-pm/Inspeckage - Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)](https://github.com/ac-pm/Inspeckage)
 * [asLody/legend - a Hook framework for Android Development, it allows you to Hook Java methods without ROOT](https://github.com/asLody/legend)
