@@ -33,6 +33,7 @@ UEFI
 
 Auxiliary
 
+* [Ga-ryo/IDAFuzzy - Fuzzy search tool for IDA Pro](https://github.com/Ga-ryo/IDAFuzzy)
 * [avast-tl/retdec - a retargetable machine-code decompiler based on LLVM](https://github.com/avast-tl/retdec)
 * [ampotos/dynStruct - Reverse engineering tool for automatic structure recovering and memory use analysis based on DynamoRIO and Capstone](https://github.com/ampotos/dynStruct)
 * [IDA StringCluster - extending IDA's string navigation capabilities](https://github.com/Comsecuris/ida_strcluster)

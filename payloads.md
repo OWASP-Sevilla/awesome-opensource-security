@@ -39,4 +39,7 @@ Exploits
 * [joaomatosf/jexboss - JexBoss: Jboss (and Java Deserialization Vulnerabilities) verify and EXploitation Tool](https://github.com/joaomatosf/jexboss)
 * [kkirsche/CVE-2017-10271 - Oracle WebLogic WLS-WSAT Remote Code Execution Exploit](https://github.com/kkirsche/CVE-2017-10271)
 * [rezasp/joomscan - OWASP Joomla Vulnerability Scanner Project](https://github.com/rezasp/joomscan)
+* [TheM4hd1/JCS - Joomla Vulnerability Component Scanner](https://github.com/TheM4hd1/JCS)
+
+
 
