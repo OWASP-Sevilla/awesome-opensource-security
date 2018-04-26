@@ -27,6 +27,7 @@ XSS
 * [Top 500 Most Important XSS Script Cheat Sheet for Web Application Penetration Testing](https://gbhackers.com/top-500-important-xss-cheat-sheet/)
 * [twitter: itscachemoney - ways to alert](https://twitter.com/itscachemoney/status/966480136802525185)
 * [Metnew/uxss-db - Universal Cross-site Scripting DB [+ other browser vulnerabilities]](https://github.com/Metnew/uxss-db)
+* [ismailtasdelen/xss-payload-list - Cross Site Scripting ( XSS ) Vulnerability Payload List](https://github.com/ismailtasdelen/xss-payload-list)
 
 Exploits
 
